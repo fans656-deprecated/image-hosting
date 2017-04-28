@@ -1,1 +1,1 @@
-git add --all && git commit -m "none"
+git add --all && git commit -m "none" && git push
